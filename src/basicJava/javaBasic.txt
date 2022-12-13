@@ -1,0 +1,45 @@
+platform independence
+security 
+Multitreading 
+oop 
+robust 
+
+compiler -> java code to byte code
+ 
+JDK => JRE + JVM + All tools (necessary for java programming)
+
+JRE => JVM + Java Binaries and classes which are needed to execute program 
+
+JVM => responsible for converting byte code to machine specific code (platform independence)
+
+JDK > JRE > JVM 
+
+-------------------------------
+Install JDK on your local env
+Link to download JDK https://jdk.java.net
+
+
+Configure Environment Variables
+
+
+Perform command ‘java -version’ and ‘javac -version’. 
+You should see result in console. Java version should be the same as Javac version.
+
+-----------------------------------------------------
+
+console is an application to work with data input, output, and error in command line with out 
+GUI for education purposes. 
+
+.java file => This is exactly files where programming code written in Java will be stored.
+After that will ask Java Compiler to compile source code to bytecode.
+.class file => byte code 
+JVM => machine code 
+
+-------------------------
+Class => start with capital letter 
+method => start with lower 
+constant => all upper case 
+
+----------------------
+
+

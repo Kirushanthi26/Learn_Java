@@ -1,0 +1,28 @@
+Array is an object which contains elements of similar data types 
+and support access to them by index.
+
+Java array is an object which contains elements of a similar data type.
+
+Advantages
+Code Optimization: It makes the code optimized, we can retrieve or sort the data efficiently.
+Random access: We can get any data located at an index position.
+
+Disadvantages
+Size Limit: We can store only the fixed size of elements in the array. 
+It doesn't grow its size at runtime. To solve this problem, 
+collection framework is used in Java which grows automatically.
+(Java array size is fixed.once array is created, you can't change the size of an array.)
+
+
+light green circle - property 
+dark green circle - methods in eclipse
+
+
+int[] arr2 = {2,5,9}; //array literal 
+if you know the array values 
+
+ctrl+1 => error solution suggestion 
+
+access Array Class => ctrl and hover the class name(it will change blue link) and click 
+Array Class -> ctrl+ o -> for search methods
+

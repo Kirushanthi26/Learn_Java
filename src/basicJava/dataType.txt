@@ -1,0 +1,46 @@
+variable - we can store information in our programs to be able to work with it in the future.
+
+data type are important to manage a memory size. 
+each data type have fixed memory allocation. 
+prevent from memory waste 
+
+data type -> primitive types and reference types
+
+reference types - classes, annotations, interfaces, enumerations, arrays.
+
+primitive types - integers, floating point numbers, booleans, characters.
+
+What is the difference between primitive and reference types?
+the main difference is that primitive variables store the actual values, whereas reference variables
+store the addresses of the objects they refer to. 
+
+Making the primitive types into objects would have degraded performance too much.
+primitive > reference
+
+primitive wrap class is wrap That encapsulates all wrap's primitive data types 
+so that this can be used to create objects.
+
+byte, short, int, long 
+float, double
+boolean 
+char 
+
+------------------------------
+
+java is a strongly typed language 
+-every variable has a type 
+-every expression has a type. 
+-each type is strictly define 
+
+----------------------
+Variable is a piece of memory that can contain a data value.
+
+
+The wrapper class in Java provides the mechanism to convert primitive into object 
+and object into primitive.
+autoboxing - primitives into objects
+unboxing  - objects into primitives
+
+
+
+

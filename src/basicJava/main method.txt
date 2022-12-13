@@ -1,0 +1,23 @@
+Public static void main method, which takes array of strings, 
+is our entry point to each Java program.
+when the method is called, the arguments are the data you pass into
+the methods parameters. 
+
+"" => String literal 
+Literal is a notation for representing a fixed value in source code.
+
+---------------------------
+1.notepad Helloworld.java 
+2. write code
+3. javac Helloworld.java
+4. java Helloworld 
+------------------------
+@echo off => common to display messages in standard output to prevent action
+
+-------------------------
+Stack Memory contains primitive values that are specific to a method, so-called local variables, 
+and the references to the objects that are in heap memory.
+
+Java uses space for dynamic method allocation for Java objects and classes and the runtime.
+Every time we are creating new objects, it's created in space.
+But reference to this object is stored in Stack memory.

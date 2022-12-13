@@ -1,0 +1,33 @@
+src folder => source folder is a pass which is marked by eclipse as containing Java sources 
+which are needed to be compiled.
+
+Java added this feature to collect Java packages and code into a single unit called module.
+
+sysout => ctrl + space 
+
+-----------------------
+comment 
+single comment => // 
+Ctrl+/ => comment and uncomment 
+
+multi line comment => /* */
+
+java doc comment => /** */
+use to create java doc details here. 
+to generate doc
+project -> generate java DOC => finish => project main folder=> doc=> index.html => right click open browser 
+
+
+-------------------------------
+tree dots in the project explorer ->package presentation -> hierarchical 
+
+changing the class name / variable name => Alt + shift + R 
+format -> ctrl + shift + f
+
+ALT+Shift+L => variable sum 
+ALT+shift+M => create method for codes 
+
+ctrl+shift+o => import correct classes ex: Arrays 
+
+ctrl+d => remove line 
+
